@@ -21,6 +21,6 @@ class HelloConfig {
 	@RequestMapping(Array("/"))
     @ResponseBody
     def home(model: Model) {
-		return "Hello, scala"
+		println("Hello World!")
 	}
 }

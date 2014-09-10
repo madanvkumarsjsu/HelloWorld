@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication
  * This object bootstraps Spring Boot web application.
  * Via Gradle: gradle bootRun
  *
- * @author saung
+ * @author mvijayakumar
  * @since 1.0
  */
 object HelloWebApplication {
